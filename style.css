@@ -44,6 +44,9 @@
 .devPhoto img{
     height: 58vh;
 }
+.devPhoto{
+    background-image: url("devpic.png");
+}
 .devInfo{
     display: flex;
     justify-content: center;
