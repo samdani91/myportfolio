@@ -67,10 +67,10 @@
     font-size: 2em;
     font-family: 'Fira Sans', sans-serif;
 }
-/* .buttons{
+.buttons{
     margin-top:2.2em;
     font-size: 16px;
-} */
+}
 .btn{
     padding: 9px 14px;
     border-radius: 22px;
@@ -104,13 +104,13 @@
     width: 16vw;
 }
 .contactform form div input{
-    /* width: 26vw; */
+    width: 60vw;
     border-radius: 5px;
     margin: 6px 0 0 0;
     padding: 3px;
 }
 #emailHelp{
-    font-size: 12px;
+    font-size: 10px;
     color: midnightblue;
     margin: 0 5px;
     padding: 3px 0 0;
